@@ -1,0 +1,1 @@
+This is a profiling script I wrote which analyzes the output of strace -tt and print out columns of functions, how many times they were called and cumulatively how long it takes
